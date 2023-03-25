@@ -1,6 +1,6 @@
 # Crypto Tracker 
 [https://user-images.githubusercontent.com/100847827/227738710-e6cd6490-328f-45fd-9e52-82e42cbc97fe.png]
-
+![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227738710-e6cd6490-328f-45fd-9e52-82e42cbc97fe.png)
 
 ## Description
 
