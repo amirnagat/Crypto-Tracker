@@ -9,5 +9,6 @@ Our Crypto Currency Tracker website is built using React, React Router, and APIs
 
 
 ### in coin
+![Wireframe - 1](https://user-images.githubusercontent.com/100847827/227738877-5347a882-09dd-4801-88aa-69bef993f1f4.png)
 
 
